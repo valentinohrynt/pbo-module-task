@@ -1,0 +1,7 @@
+D:\New folder\bebas\bin\Debug\bebas.exe.config
+D:\New folder\bebas\bin\Debug\bebas.exe
+D:\New folder\bebas\bin\Debug\bebas.pdb
+D:\New folder\bebas\obj\Debug\bebas.csproj.AssemblyReference.cache
+D:\New folder\bebas\obj\Debug\bebas.csproj.CoreCompileInputs.cache
+D:\New folder\bebas\obj\Debug\bebas.exe
+D:\New folder\bebas\obj\Debug\bebas.pdb
